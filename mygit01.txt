@@ -1,1 +1,3 @@
 hi my first git code
+gitsub01 changing the code
+this is my 2nd code
